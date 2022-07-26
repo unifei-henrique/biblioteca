@@ -1,0 +1,6 @@
+[submodule "biblioteca-front"]
+	path = biblioteca-front
+	url = https://github.com/unifei-henrique/biblioteca-front.git
+[submodule "biblioteca-back"]
+	path = biblioteca-back
+	url = https://github.com/unifei-henrique/biblioteca-back.git
